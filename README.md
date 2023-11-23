@@ -8,3 +8,7 @@ Etape 2 : A faire
 
 Etape 3 : A faire
 - Renseigner la documentation poru chaque log - Effet sur le pc
+
+
+run main.go pour démarrer le projet
+localhost:8080/
